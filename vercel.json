@@ -15,7 +15,7 @@
         }
     ],
     "env": {
-        "APP_NAME": "Laraquiz",
+        "APP_NAME": "Laraquiz Test",
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "https://laraquiz.vercel.app",
